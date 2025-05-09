@@ -1,0 +1,15 @@
+tetranacci (5) is 2 
+tetranacci (10) is 56 
+tetranacci (15) is 1490 
+tetranacci (20) is 39648 
+tetranacci (25) is 1055026 
+tetranacci (30) is 28074040 
+tetranacci (35) is 747044834 
+THIS MULTIPLE RECURSION
+ The tetranacci (5) is: value 2
+ The tetranacci (10) is: value 56
+ The tetranacci (15) is: value 1490
+ The tetranacci (20) is: value 39648
+ The tetranacci (25) is: value 1055026
+ The tetranacci (30) is: value 28074040
+ The tetranacci (35) is: value 747044834

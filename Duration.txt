@@ -1,0 +1,16 @@
+This is linear recursion
+ Duration of tetranacci  5 is 3700 ns
+ Duration of tetranacci  10 is 1900 ns
+ Duration of tetranacci  15 is 1600 ns
+ Duration of tetranacci  20 is 1600 ns
+ Duration of tetranacci  25 is 1900 ns
+ Duration of tetranacci  30 is 3100 ns
+ Duration of tetranacci  35 is 2700 ns
+ This is multiple recursive version
+ Duration of tetranacci  5 is 600 ns
+ Duration of tetranacci  10 is 1500 ns
+ Duration of tetranacci  15 is 12200 ns
+ Duration of tetranacci  20 is 267800 ns
+ Duration of tetranacci  25 is 6364800 ns
+ Duration of tetranacci  30 is 540423800 ns
+ Duration of tetranacci  35 is 16257830200 ns
